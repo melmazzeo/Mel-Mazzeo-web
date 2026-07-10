@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cómo conseguir clientes sin depender del boca a boca"
-date: 2026-07-14
+date: 2026-07-10
 excerpt: "El boca a boca funciona hasta que deja de funcionar."
 ---
 
