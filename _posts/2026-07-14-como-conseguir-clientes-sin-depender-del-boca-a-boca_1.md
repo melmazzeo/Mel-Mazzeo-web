@@ -44,7 +44,7 @@ Si arrancás por el último paso sin haber resuelto los anteriores, tenés conte
 
 No querés más seguidores. Querés dejar de depender de que te recomienden de casualidad porque se acordaron de vos. Querés que cuando alguien te busque, entienda en cinco segundos por qué vos y no el de al lado. Querés que cuando alguien necesite exactamente lo que hacés, no tenga que comparar demasiado. Querés piense en vos al toque. Queres ser la opción más obvia. 
 
-Y eso no se logra solo con más presencia. Se logra con más precisión en tu mensaje, en tu propuesta, en cómo te parás frente al mundo.
+Y eso no se logra sólo con más presencia. Se logra con más precisión en tu mensaje, en tu propuesta, en cómo te parás frente al mundo.
 
 
 Si llegaste hasta acá y te reconociste en algún párrafo de este artículo, probablemente ya tengas claro que es momento de empezar a trabajar tu marca personal.
