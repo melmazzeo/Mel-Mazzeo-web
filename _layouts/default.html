@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+
+  <!-- jekyll-seo-tag arma acá title, description, canonical y Open Graph
+       automáticamente a partir del front matter de cada página/post -->
+  {% seo %}
+  {% feed_meta %}
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BRVTDJQX6N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-BRVTDJQX6N');
+  </script>
+  <style>
+    /* NAV del blog: en compu se ven las secciones del home + Hablemos.
+       En celular queda una sola pestaña destacada: Inicio. */
+    .nav-links a.nav-inicio { display: none; }
+
+    @media (max-width: 860px) {
+      .nav-links a:not(.nav-inicio) { display: none; }
+      .nav-inner { padding: .85rem 1.1rem; }
+      .nav-brand { font-size: .68rem; letter-spacing: .08em; }
+
+      .nav-links a.nav-inicio {
+        display: inline-block;
+        padding: .65rem 1.3rem;
+        font-size: .78rem;
+        border-radius: 999px;
+        color: #fff;
+        background: linear-gradient(135deg, var(--accent, #b06c78), var(--accent-dark, #91565f));
+        box-shadow: 0 0 0 0 rgba(176,108,120,.5);
+        animation: navCtaPulse 2.2s ease-in-out infinite;
+      }
+      .nav-links a.nav-inicio:hover,
+      .nav-links a.nav-inicio:active { animation: none; background: var(--accent, #b06c78); }
+      @keyframes navCtaPulse {
+        0%, 100% { box-shadow: 0 0 0 0 rgba(176,108,120,.45); transform: scale(1); }
+        50% { box-shadow: 0 0 0 9px rgba(176,108,120,0); transform: scale(1.035); }
+      }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a class="nav-brand" href="/">Mel Mazzeo <i>·</i> Una que habla</a>
+    <div class="nav-links">
+      <a href="/#metodo">El método</a>
+      <a href="/#servicios">Servicios</a>
+      <a href="/#testimonios">Resultados</a>
+      <a href="/#sobre-mel">Quién soy</a>
+      <a class="cta-link" href="/#hablemos">Hablemos →</a>
+      <a href="/" class="nav-inicio">Inicio</a>
+    </div>
+  </div>
+</nav>
+
+{{ content }}
+
+<footer>
+  <div class="wrap footer-inner">
+    <p>© 2026 Mel Mazzeo · Una que habla · Hacedores de Marca™</p>
+    <a class="footer-b2b" href="https://wa.me/59894367826?text=Hola%20Mel%2C%20te%20escribo%20por%20charlas%20o%20colaboraciones%20para%20mi%20empresa.">¿Buscás charlas o talleres para tu equipo? Escribime →</a>
+  </div>
+</footer>
+
+</body>
+</html>

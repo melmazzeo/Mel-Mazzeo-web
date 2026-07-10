@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article>
+  <header class="post-header">
+    <div class="wrap">
+      <a href="/blog/" class="eyebrow">← Volver al blog</a>
+      <div class="post-meta">{{ page.date | date: "%d %B %Y" }}{% if page.reading_time %} · {{ page.reading_time }} min de lectura{% endif %}</div>
+      <h1>{{ page.title }}</h1>
+      {% if page.excerpt %}<p class="post-lead">{{ page.excerpt | strip_html }}</p>{% endif %}
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <div class="post-footer">
+      <div class="post-cta">
+        <p>¿Esto te resuena y no sabés por dónde empezar a ordenarlo?</p>
+        <a class="btn" href="/#hablemos">Hablemos →</a>
+      </div>
+    </div>
+  </div>
+</article>
