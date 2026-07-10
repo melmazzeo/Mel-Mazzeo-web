@@ -11,9 +11,9 @@ Nada. No hiciste nada mal. El boca a boca se va apagando de a poco, es normal, l
 
 Yo pasé por eso. Cuando dejé el mundo corporativo, después de veinte años sabiendo exactamente qué hacer cada lunes, me encontré con que saber hacer bien mi trabajo no alcanzaba. Tenía experiencia. Lo que no tenía era la más mínima idea de cómo contarla.
 
-## El problema no es que no te recomienden
+## Este es el verdadero problema que tenés
 
-Acá está el error en el que caen casi todos los profesionales con trayectoria, piensan que el problema es de marketing. Que les falta contenido, redes, una web más linda.
+Acá está el error en el que caen casi todos los profesionales con trayectoria, piensan que el problema es que les falta contenido, redes, una web más linda.
 
 Y no, no es eso.
 
@@ -21,7 +21,7 @@ El boca a boca funciona básicamente porque alguien más hizo el trabajo de expl
 
 ¿Entendiste? Nunca tradujiste tu valor en algo que se pueda decir en una simple frase.
 
-## Cómo se ve esto en el día a día
+## Y dale que te dale con querer poner la carreta delante de los bueyes!
 
 Si te pasa alguna de estas, ya sabés de qué hablo:
 
@@ -30,19 +30,18 @@ Si te pasa alguna de estas, ya sabés de qué hablo:
 - Tu presencia digital muestra menos de lo que realmente sabés hacer.
 - Cada cliente nuevo empieza la conversación de cero, tenés que explicar por primera vez algo que ya explicaste cien veces.
 
-Ninguna de esas cosas se arregla publicando más seguido. Se arregla antes, anteees!
+ Ninguna de esas cosas se arregla publicando más. Se arregla antes, anteees!
 
-Y dale que te dale con querer poner la carreta delante de los bueyes!
 
 La mayoría se desespera y arranca por el lugar equivocado, quiere resolver todo haciendo contenido. Un carrusel, un reel, una frase linda para LinkedIn.
 
-Presta atención, el orden es este:
+Prestá atención, el orden es este:
 
 Primero identificás el valor que ya construiste, aunque nunca lo hayas puesto en palabras. Después lo estructurás, le das forma, entendés qué parte pesa más. Recién ahí definís tu posicionamiento y tu propuesta de valor. Y solo cuando eso está firme, lo traducís a comunicación — web, redes, cómo te presentás en una reunión.
 
 Si arrancás por el último paso sin haber resuelto los anteriores, tenés contenido lindo sobre un mensaje vacío. Y eso no genera clientes. Genera likes. Y a quién carajos le importan los likes, cuando lo que quiere son clienteees!
 
-## Lo que en realidad estás buscando
+## Y lo que en realidad estás buscando es...
 
 No querés más seguidores. Querés dejar de depender de que alguien se acuerde de vos cuando necesite justo de tus servicios. Querés que cuando alguien te busque, entienda en cinco segundos por qué vos y no el de al lado.
 
