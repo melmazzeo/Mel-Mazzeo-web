@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Que te recomienden está buenísimo. Depender de recomendaciones apesta."
+title: "Depender de recomendaciones apesta."
 date: 2026-07-10
 excerpt: "El boca a boca funciona hasta que deja de funcionar."
 ---
@@ -8,6 +8,8 @@ excerpt: "El boca a boca funciona hasta que deja de funcionar."
 El boca a boca es la mejor estrategia de negocio que existe. Más vieja que mi abuela. Muy efectiva y cómoda. No tenés que hacer nada más que hacer bien tu trabajo. Hasta que un mes no llega nadie nuevo, y te quedás preguntándote qué hiciste mal, nocierto.
 
 Nada. No hiciste nada mal. Es solo que el boca a boca se va apagando de a poco (como una pareja que convive). Es normal, le pasa a todo el mundo. El peligro es que vos ni te das cuenta, hasta que la agenda del mes que viene está mega vacía. Y ahí entrás a desesperarte.
+
+Que te recomienden está buenísimo. Depender de recomendaciones apesta.
 
 Yo pasé por eso. Cuando dejé el mundo corporativo, después de veinte años de saber exactamente qué hacer cada lunes, me encontré con que hacer bien mi trabajo no alcanzaba. Tenía experiencia. Lo que no tenía era la más mínima idea de cómo comunicarle a otros "che, yo soy re buena haciendo lo que hago".
 
@@ -47,8 +49,8 @@ No querés más seguidores. Querés dejar de depender de que te recomienden de c
 Y eso no se logra sólo con más presencia. Se logra con más precisión en tu mensaje, en tu propuesta, en cómo te parás frente al mundo.
 
 
-Si llegaste hasta acá y te reconociste en algún párrafo de este artículo, probablemente ya tengas claro que es momento de empezar a trabajar tu marca personal.
+Si llegaste hasta acá y te reconociste en algún párrafo de este artículo, probablemente ya tengas claro que es momento de empezar a hacer algo para cambiar tu situación actual.
 
-Con Hacedores de Marca™ trabajo exactamente esto. Identificar el valor que ya tenés, estructurarlo y traducirlo en una marca que genere clientes por su cuenta, sin depender de que alguien se acuerde de recomendarte.
+Con Hacedores de Marca™ trabajo exactamente esto. Identificar el valor que ya tenés, estructurarlo y traducirlo en una marca personal que genere clientes por su cuenta, sin depender de que alguien se acuerde de recomendarte.
 
 Soy Una Que Habla y juntos vamos a dar que hablar.
