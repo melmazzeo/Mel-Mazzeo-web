@@ -1,0 +1,37 @@
+title: Mel Mazzeo | Una que habla
+description: "Estrategia de marca personal, posicionamiento y comunicación para profesionales con trayectoria."
+url: "https://www.melmazzeo.com"
+lang: es_UY
+
+# Cómo se arman las URLs de cada artículo. Con esto, un post con
+# título "Por qué el boca a boca no alcanza" queda en:
+# melmazzeo.com/blog/por-que-el-boca-a-boca-no-alcanza/
+permalink: /blog/:title/
+
+markdown: kramdown
+
+# Plugins soportados de forma nativa por GitHub Pages (no requieren
+# build externo). jekyll-seo-tag arma automáticamente meta tags y
+# Open Graph por artículo. jekyll-sitemap genera sitemap.xml.
+# jekyll-feed genera el RSS en /feed.xml.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Datos que usa jekyll-seo-tag como default en cada página/post
+author: Mel Mazzeo
+twitter:
+  username: melmazzeo
+social:
+  name: Mel Mazzeo
+  links:
+    - https://instagram.com/melmazzeo
+    - https://linkedin.com/in/melinamazzeo
+
+# Archivos que Jekyll no debe procesar ni subir al build
+exclude:
+  - README.md
+  - INSTRUCCIONES.md
+  - Gemfile
+  - Gemfile.lock
