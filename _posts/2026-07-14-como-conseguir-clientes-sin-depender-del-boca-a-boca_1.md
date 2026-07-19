@@ -4,6 +4,7 @@ title: "Depender de recomendaciones apesta."
 date: 2026-07-10
 excerpt: "El boca a boca funciona hasta que deja de funcionar."
 ---
+![Depender de recomendaciones apesta](/assets/css/depender-de-recomendaciones-apesta.jpg)
 
 El boca a boca es la mejor estrategia de negocio que existe. Más vieja que mi abuela. Muy efectiva y cómoda. No tenés que hacer nada más que hacer bien tu trabajo. Hasta que un mes no llega nadie nuevo, y te quedás preguntándote qué hiciste mal, nocierto.
 
