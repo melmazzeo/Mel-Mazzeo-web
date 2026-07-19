@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El perfeccionismo es el miedo disfrazado de prudencia."
-date: 2026-07-19
+date: 2026-07-26
 excerpt: "El perfeccionismo no es una virtud, es un ancla. 6 aprendizajes para dejar de esperar la versión perfecta y animarte a publicar."
 ---
 ![El perfeccionismo es el miedo disfrazado de prudencia](/assets/css/el-perfeccionismo-es-el-miedo-disfrazado-de-prudencia.jpg)
