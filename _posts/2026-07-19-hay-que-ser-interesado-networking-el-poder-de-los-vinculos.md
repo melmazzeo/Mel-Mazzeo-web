@@ -5,7 +5,7 @@ date: 2026-07-19
 excerpt: "El networking no es una mala palabra ni un invento de vendedores. Es una estrategia más vieja que el agujero del mate — y funciona mejor apenas dejás de fingir que no te interesa."
 ---
 
-![Hay que ser interesado: el poder de los vínculos](/assets/blog/networking-el-poder-de-los-vinculos.jpg)
+![Hay que ser interesado: el poder de los vínculos](/assets/css/networking-el-poder-de-los-vinculos.jpg)
 
 Resulta que esa palabrita mundialmente conocida en inglés como "networking", no es otra cosa más que una estrategia más vieja que el agujero del mate.
 
