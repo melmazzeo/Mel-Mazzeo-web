@@ -2,7 +2,7 @@
 layout: post
 title: "Voy a escribir para el culo, así me leen a mí y no a ChatGPT."
 date: 2026-07-19
-excerpt: "Confieso que ChatGPT me estaba escribiendo a mí. Borré mi primer post por vergüenza, y hoy vuelvo a mi autenticidad al palo."
+excerpt: "Confieso que ChatGPT me estaba escribiendo a mí. Borré mi primer post por vergüenza, y hoy vuelvo con mi autenticidad al palo."
 ---
 
 ![Voy a escribir para el culo, así me leen a mí y no a ChatGPT](/assets/css/voy-a-escribir-para-el-culo.jpg)
