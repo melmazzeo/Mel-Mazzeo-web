@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hay que ser interesado. Networking: el poder de los vínculos."
-date: 2026-07-26
+date: 2026-08-02
 excerpt: "El networking no es una mala palabra ni un invento de vendedores. Es una estrategia más vieja que el agujero del mate — y funciona mejor apenas dejás de fingir que no te interesa."
 ---
 
