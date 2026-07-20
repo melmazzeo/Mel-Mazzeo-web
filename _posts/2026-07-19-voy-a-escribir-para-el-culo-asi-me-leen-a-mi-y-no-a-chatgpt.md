@@ -2,7 +2,7 @@
 layout: post
 title: "Voy a escribir para el culo, así me leen a mí y no a ChatGPT."
 date: 2026-07-19
-excerpt: "Confieso que ChatGPT me estaba escribiendo a mí. Borré mi primer post por vergüenza, y hoy vuelvo a mi autenticidad al palo, aunque escriba para el culo."
+excerpt: "Confieso que ChatGPT me estaba escribiendo a mí. Borré mi primer post por vergüenza, y hoy vuelvo con mi autenticidad al palo."
 ---
 
 ![Voy a escribir para el culo, así me leen a mí y no a ChatGPT](/assets/css/voy-a-escribir-para-el-culo.jpg)
@@ -13,9 +13,9 @@ Hola, soy Mel y hoy quiero hablar del uso y abuso de Chat GPT que sufrí en el �
 
 Y si... caí, como casi todos. Y acá estoy saliendo cual adicta.
 
-Todo empezó con un “subite al tren de la IA o vas a quedar atrás”. Una suscripción de inofensivos 17 dólares mensuales y mi autenticidad se fue a la mismísima mierda.
+Todo empezó con un “subite al tren de la IA o vas a quedar atrás”. Una suscripción de inofensivos 17 dólares mensuales y mi autenticidad se fue al carajo.
 
-“Me debo a mi público”, no se qué diva decía eso, pero así me siento hoy. Porque la construcción de mi comunidad empezó con mis textos, hechos a puro sentarme un buen rato (a veces hasta días) a escribir desde lo más profundo de mi ser y terminó en los últimos tiempos en una reverenda caca de copio y pego. Curada por mi lo mejor posible, (por supuesto, para que nadie lo note) pero despojada por la IA muy lentamente de mi autenticidad (para que yo no lo note).
+“Me debo a mi público”, no se qué diva decía eso, pero así me siento hoy. Porque la construcción de mi comunidad empezó con mis textos, hechos a puro sentarme un buen rato (a veces hasta días) a escribir desde lo más profundo de mi ser y terminó en los últimos tiempos en una reverenda caca de copio y pego. Curada por mi lo mejor posible, (para que nadie lo note) pero despojada por la IA muy lentamente de mi autenticidad (para que yo no lo note).
 
 Si se sienten un poquito identificados con esto les pido, a medida que lean miren para adentro y revisen si no les está pasando también a ustedes.
 
