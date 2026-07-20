@@ -11,7 +11,7 @@ Hola, soy Mel y hoy quiero hablar del uso y abuso de Chat GPT que sufrí en el �
 
 Y si... caí, como casi todos. Y acá estoy saliendo cual adicta.
 
-Todo empezó con un “‘subite al tren de la IA o vas a quedar atrás”. Una suscripción de inofensivos 17 dólares mensuales y mi autenticidad se fue a la mismísima mierda.
+Todo empezó con un “‘subite al tren de la IA o vas a quedar atrás”. Una suscripción de inofensivos 17 dólares mensuales y mi autenticidad se fue al carajo.
 
 “Me debo a mi público”, no se qué diva decía eso, pero así me siento hoy. Porque la construcción de mi comunidad empezó con mis textos, hechos a puro sentarme un buen rato (a veces hasta días) a escribir desde lo más profundo de mi ser y terminó en los últimos tiempos en una reverenda caca de copio y pego. Curada por mi lo mejor posible, (por supuesto, para que nadie lo note) pero despojada por la IA muy lentamente de mi autenticidad (para que yo no lo note).
 
