@@ -1080,7 +1080,7 @@ body { background: var(--ink); }
       try {
         var u = new URL(embed, window.location.href);
         u.searchParams.set('autoplay', '1');
-        if (/youtube/.test(u.hostname)) { u.searchParams.set('rel', '0'); u.searchParams.set('modestbranding', '1'); }
+        if (/youtube/.test(u.hostname)) { u.searchParams.set('rel', '0'); u.searchParams.set('modestbranding', '1'); u.searchParams.set('enablejsapi', '1'); u.searchParams.set('origin', window.location.origin); }
         src = u.toString();
       } catch (x) { src = embed; }
       var iframe = document.createElement('iframe');
@@ -1090,11 +1090,66 @@ body { background: var(--ink); }
       iframe.setAttribute('allowfullscreen', '');
       box.replaceChild(iframe, btn);
       track('video_play', { video_title: iframe.title, page_location: window.location.href });
+      trackProgress(iframe);
     });
   });
 })();
 
+/* ---------- Cuánto del video mira la gente (25/50/75/90 %) ---------- */
+function trackProgress(iframe) {
+  if (!/youtube/.test(iframe.src)) return;
+  function start() {
+    var hitos = [25, 50, 75, 90], enviados = {}, timer = null;
+    var player = new YT.Player(iframe, {
+      events: {
+        onStateChange: function (e) {
+          clearInterval(timer);
+          if (e.data === YT.PlayerState.PLAYING) {
+            timer = setInterval(function () {
+              var d = player.getDuration(), c = player.getCurrentTime();
+              if (!d) return;
+              hitos.forEach(function (h) {
+                if (!enviados[h] && c / d * 100 >= h) {
+                  enviados[h] = true;
+                  try { window.gtag && window.gtag('event', 'video_progress', { video_title: iframe.title, video_percent: h }); } catch (x) {}
+                }
+              });
+            }, 1000);
+          }
+          if (e.data === YT.PlayerState.ENDED && !enviados[100]) {
+            enviados[100] = true;
+            try { window.gtag && window.gtag('event', 'video_complete', { video_title: iframe.title }); } catch (x) {}
+          }
+        }
+      }
+    });
+  }
+  if (window.YT && window.YT.Player) { start(); return; }
+  var prev = window.onYouTubeIframeAPIReady;
+  window.onYouTubeIframeAPIReady = function () { if (prev) prev(); start(); };
+  if (!document.querySelector('script[src*="youtube.com/iframe_api"]')) {
+    var s = document.createElement('script'); s.src = 'https://www.youtube.com/iframe_api'; document.head.appendChild(s);
+  }
+}
+
+/* ---------- Newsletter: envío sin salir de la página + medición ---------- */
+(function () {
+  var f = document.querySelector('.news-form');
+  if (!f || !window.fetch) return;
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var btn = f.querySelector('button'); var txt = btn.textContent;
+    btn.disabled = true; btn.textContent = 'Enviando…';
+    fetch(f.action, { method: 'POST', body: new FormData(f), headers: { 'Accept': 'application/json' } })
+      .then(function (r) {
+        if (!r.ok) throw new Error();
+        try { window.gtag && window.gtag('event', 'sign_up', { method: 'newsletter' }); } catch (x) {}
+        try { window.fbq && window.fbq('track', 'CompleteRegistration'); } catch (x) {}
+        f.innerHTML = '<p style="margin:0 auto;">Listo. Ya estás en la lista de <em>Datos no tan al pedo</em>.</p>';
+      })
+      .catch(function () { btn.disabled = false; btn.textContent = txt; alert('No se pudo enviar. Probá de nuevo.'); });
+  });
+})();
 </script>
-</body></html>
 </body>
 </html>
