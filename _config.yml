@@ -33,6 +33,10 @@ social:
 defaults:
   - scope:
       path: ""
+    values:
+      image: /assets/og-image.jpg
+  - scope:
+      path: ""
       type: posts
     values:
       layout: post
