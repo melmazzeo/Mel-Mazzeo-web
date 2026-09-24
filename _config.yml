@@ -1,5 +1,5 @@
-title: Mel Mazzeo | Una que habla
-description: "Estrategia de marca personal, posicionamiento y comunicación para profesionales con trayectoria."
+title: Mel Mazzeo · Hacedores de Marca™
+description: "Acompaño a ex corporativos 40+ que no quieren volver al corporativo a hacer que su independencia funcione, alrededor de su propio nombre. Sin depender de nadie."
 url: "https://www.melmazzeo.com"
 lang: es_UY
 
@@ -10,10 +10,7 @@ permalink: /blog/:title/
 
 markdown: kramdown
 
-# Plugins soportados de forma nativa por GitHub Pages (no requieren
-# build externo). jekyll-seo-tag arma automáticamente meta tags y
-# Open Graph por artículo. jekyll-sitemap genera sitemap.xml.
-# jekyll-feed genera el RSS en /feed.xml.
+# Plugins soportados de forma nativa por GitHub Pages.
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -21,13 +18,24 @@ plugins:
 
 # Datos que usa jekyll-seo-tag como default en cada página/post
 author: Mel Mazzeo
+image: /assets/og-image.jpg
 twitter:
   username: melmazzeo
 social:
   name: Mel Mazzeo
   links:
     - https://instagram.com/melmazzeo
-    - https://linkedin.com/in/melinamazzeo
+    - https://www.linkedin.com/in/melmazzeo
+    - https://tiktok.com/@mel.mazzeo
+    - https://youtube.com/@melmazzeo
+
+# Todo artículo usa el diseño "post" sin tener que escribirlo
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 # Archivos que Jekyll no debe procesar ni subir al build
 exclude:
